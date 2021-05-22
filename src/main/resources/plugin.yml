@@ -1,0 +1,7 @@
+name: MapCrasher
+version: ${project.version}
+main: me.polishkrowa.mapcrasher.MapCrasher
+api-version: 1.16
+
+commands:
+  getmap:
